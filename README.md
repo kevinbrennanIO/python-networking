@@ -1,6 +1,6 @@
 # python-netwoking
 
-A collection of notes that I have currated on basic Python programming. Much of the content contained in this repo has come from following along with [https://www.udemy.com/python-programming-for-real-life-networking-use/](Python3 Networking Programming)
+A collection of notes that I have currated on basic Python programming. Much of the content contained in this repo has come from following along with [Python3 Networking Programming](https://www.udemy.com/python-programming-for-real-life-networking-use/)
 
 ## Getting Started
 
