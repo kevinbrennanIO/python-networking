@@ -1,7 +1,6 @@
 # python-netwoking
-link to the template for the README file https://gist.github.com/PurpleBooth/109311bb0361f32d87a2
 
-One Paragraph of project description goes here
+A collection of notes that I have currated on basic Python programming. Much of the content contained in this repo has come from following along with [https://www.udemy.com/python-programming-for-real-life-networking-use/](Python3 Networking Programming)
 
 ## Getting Started
 
