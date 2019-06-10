@@ -21,3 +21,8 @@ print(max(list1))  # print the max value in list
 print(min(list1))  # print the min value in list
 
 list1.insert(2, "Python")  # insert value 'Python' at index '2'
+
+list.append()
+list.count()
+list.sort()
+list.reverse()
